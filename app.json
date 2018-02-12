@@ -7,5 +7,7 @@
     "android": {
       "package": "com.ae.alrtbatchr"
     }
-  }
+  },
+  "name": "alrtbatchr",
+  "displayName": "alrtbatchr"
 }
